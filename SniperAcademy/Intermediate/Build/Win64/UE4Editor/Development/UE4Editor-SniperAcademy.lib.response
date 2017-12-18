@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-SniperAcademy.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\UE4\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\jamie\OneDrive\Documents\Unreal Projects\SniperAcademy\Intermediate\Build\Win64\UE4Editor\Development\SniperAcademy\SniperAcademy.cpp.obj"
+"C:\Users\jamie\OneDrive\Documents\Unreal Projects\SniperAcademy\Intermediate\Build\Win64\UE4Editor\Development\SniperAcademy\SniperAcademyGameModeBase.cpp.obj"
+"C:\Users\jamie\OneDrive\Documents\Unreal Projects\SniperAcademy\Intermediate\Build\Win64\UE4Editor\Development\SniperAcademy\SniperAcademy.init.gen.cpp.obj"
+"C:\Users\jamie\OneDrive\Documents\Unreal Projects\SniperAcademy\Intermediate\Build\Win64\UE4Editor\Development\SniperAcademy\SniperAcademyGameModeBase.gen.cpp.obj"
+"E:\UE4\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\SniperAcademy\PCLaunch.rc.res"
+"E:\UE4\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Users\jamie\OneDrive\Documents\Unreal Projects\SniperAcademy\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SniperAcademy.lib"

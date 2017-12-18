@@ -1,0 +1,3 @@
+C:\Users\jamie\OneDrive\Documents\Unreal Projects\SniperAcademy\Source\SniperAcademy\SniperAcademy.Build.cs
+C:\Users\jamie\OneDrive\Documents\Unreal Projects\SniperAcademy\Source\SniperAcademy.Target.cs
+C:\Users\jamie\OneDrive\Documents\Unreal Projects\SniperAcademy\Source\SniperAcademyEditor.Target.cs
