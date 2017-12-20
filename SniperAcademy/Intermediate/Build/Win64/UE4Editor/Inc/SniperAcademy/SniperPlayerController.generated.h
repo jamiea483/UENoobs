@@ -13,8 +13,46 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define SNIPERACADEMY_SniperPlayerController_generated_h
 
-#define SniperAcademy_Source_SniperAcademy_SniperPlayerController_h_15_RPC_WRAPPERS
-#define SniperAcademy_Source_SniperAcademy_SniperPlayerController_h_15_RPC_WRAPPERS_NO_PURE_DECLS
+#define SniperAcademy_Source_SniperAcademy_SniperPlayerController_h_15_RPC_WRAPPERS \
+ \
+	DECLARE_FUNCTION(execGetScore) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		*(int32*)Z_Param__Result=this->GetScore(); \
+		P_NATIVE_END; \
+	} \
+ \
+	DECLARE_FUNCTION(execSetScore) \
+	{ \
+		P_GET_PROPERTY(UIntProperty,Z_Param_value); \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		this->SetScore(Z_Param_value); \
+		P_NATIVE_END; \
+	}
+
+
+#define SniperAcademy_Source_SniperAcademy_SniperPlayerController_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execGetScore) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		*(int32*)Z_Param__Result=this->GetScore(); \
+		P_NATIVE_END; \
+	} \
+ \
+	DECLARE_FUNCTION(execSetScore) \
+	{ \
+		P_GET_PROPERTY(UIntProperty,Z_Param_value); \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		this->SetScore(Z_Param_value); \
+		P_NATIVE_END; \
+	}
+
+
 #define SniperAcademy_Source_SniperAcademy_SniperPlayerController_h_15_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesASniperPlayerController(); \

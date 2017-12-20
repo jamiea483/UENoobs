@@ -23,9 +23,9 @@
 /wd4838
 /w44668
 /I E:\UE4\UE_4.17\Engine\Source
-/I "C:\Users\jamie\OneDrive\Documents\Unreal Projects\SniperAcademy\Source"
-/I "C:\Users\jamie\OneDrive\Documents\Unreal Projects\SniperAcademy\Intermediate\Build\Win64\UE4Editor\Inc\SniperAcademy"
-/I "C:\Users\jamie\OneDrive\Documents\Unreal Projects\SniperAcademy\Source\SniperAcademy"
+/I C:\Users\jamie\Desktop\UE4Noobs\Project\URNoobs\SniperAcademy\Source
+/I C:\Users\jamie\Desktop\UE4Noobs\Project\URNoobs\SniperAcademy\Intermediate\Build\Win64\UE4Editor\Inc\SniperAcademy
+/I C:\Users\jamie\Desktop\UE4Noobs\Project\URNoobs\SniperAcademy\Source\SniperAcademy
 /I E:\UE4\UE_4.17\Engine\Source\Runtime\Core\Public
 /I E:\UE4\UE_4.17\Engine\Source\Runtime\Core\Public\Internationalization
 /I E:\UE4\UE_4.17\Engine\Source\Runtime\Core\Public\Async
@@ -355,9 +355,9 @@
 /FI"E:\UE4\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Yu"E:\UE4\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Fp"E:\UE4\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.pch"
-"C:\Users\jamie\OneDrive\Documents\Unreal Projects\SniperAcademy\Intermediate\Build\Win64\UE4Editor\Inc\SniperAcademy\SniperAcademyGameModeBase.gen.cpp"
-/FI"C:\Users\jamie\OneDrive\Documents\Unreal Projects\SniperAcademy\Intermediate\Build\Win64\UE4Editor\Development\SniperAcademy\Definitions.SniperAcademy.h"
-/Fo"C:\Users\jamie\OneDrive\Documents\Unreal Projects\SniperAcademy\Intermediate\Build\Win64\UE4Editor\Development\SniperAcademy\SniperAcademyGameModeBase.gen.cpp.obj"
+"C:\Users\jamie\Desktop\UE4Noobs\Project\URNoobs\SniperAcademy\Intermediate\Build\Win64\UE4Editor\Inc\SniperAcademy\SniperAcademyGameModeBase.gen.cpp"
+/FI"C:\Users\jamie\Desktop\UE4Noobs\Project\URNoobs\SniperAcademy\Intermediate\Build\Win64\UE4Editor\Development\SniperAcademy\Definitions.SniperAcademy.h"
+/Fo"C:\Users\jamie\Desktop\UE4Noobs\Project\URNoobs\SniperAcademy\Intermediate\Build\Win64\UE4Editor\Development\SniperAcademy\SniperAcademyGameModeBase.gen.cpp.obj"
 /TP
 /GR-
 /W4

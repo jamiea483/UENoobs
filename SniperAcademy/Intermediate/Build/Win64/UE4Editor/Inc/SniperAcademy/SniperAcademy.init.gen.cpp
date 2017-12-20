@@ -20,8 +20,8 @@ void EmptyLinkFunctionForGeneratedCodeSniperAcademy_init() {}
 			ReturnPackage = CastChecked<UPackage>(StaticFindObjectFast(UPackage::StaticClass(), nullptr, FName(TEXT("/Script/SniperAcademy")), false, false));
 			ReturnPackage->SetPackageFlags(PKG_CompiledIn | 0x00000000);
 			FGuid Guid;
-			Guid.A = 0xD58842AF;
-			Guid.B = 0xAF9B51B1;
+			Guid.A = 0xD1216713;
+			Guid.B = 0x0F952029;
 			Guid.C = 0x00000000;
 			Guid.D = 0x00000000;
 			ReturnPackage->SetGuid(Guid);

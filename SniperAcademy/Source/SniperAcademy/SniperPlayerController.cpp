@@ -3,5 +3,14 @@
 #include "SniperPlayerController.h"
 
 
+void ASniperPlayerController::SetScore(int value)
+{
+	score += value;
+}
 
 
+
+int ASniperPlayerController::GetScore()
+{
+	return score;
+}
