@@ -650,3 +650,18 @@ LogInit: Object subsystem initialized
 [2018.01.02-19.15.16:834][174]LogSavePackage: Moving 'C:/Users/jamie/Desktop/UE4Noobs/Project/URNoobs/SniperAcademy/Saved/EnemyBTA58B951B4ED67571F8CB21A6857F74F7.tmp' to 'C:/Users/jamie/Desktop/UE4Noobs/Project/URNoobs/SniperAcademy/Content/Assets/Enemy/AI/EnemyBT.uasset'
 [2018.01.02-19.15.16:838][174]LogSavePackage: Display: Finished SavePackage C:/Users/jamie/Desktop/UE4Noobs/Project/URNoobs/SniperAcademy/Content/Assets/Enemy/AI/EnemyBT.uasset
 [2018.01.02-19.18.04:455][253]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Assets/Map/GameScreen.
+[2018.01.02-19.18.36:103][348]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Assets/Enemy/AI/BTTask_WalkSpeed.
+[2018.01.02-19.18.36:115][348]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Assets/Enemy/Robot/Animation/RobotAnimation_BP.
+[2018.01.02-19.18.39:153][357]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Assets/Map/StartScreen' took 0.030
+[2018.01.02-19.18.39:207][357]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Enemy/EnemyCharacterBP] ([1] browsable assets)...
+[2018.01.02-19.18.39:251][357]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/Enemy/EnemyCharacterBP.EnemyCharacterBP]
+[2018.01.02-19.18.39:251][357]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Enemy/EnemyCharacterBP]
+[2018.01.02-19.18.39:335][357]LogSavePackage: Save=81.25ms
+[2018.01.02-19.18.39:335][357]LogSavePackage: Moving 'C:/Users/jamie/Desktop/UE4Noobs/Project/URNoobs/SniperAcademy/Saved/EnemyCharacterBP_Auto12D7C935F49ABA9693E2954AAE843D4BF.tmp' to 'C:/Users/jamie/Desktop/UE4Noobs/Project/URNoobs/SniperAcademy/Saved/Autosaves/Game/Assets/Enemy/EnemyCharacterBP_Auto1.uasset'
+[2018.01.02-19.18.39:337][357]LogSavePackage: Display: Finished SavePackage C:/Users/jamie/Desktop/UE4Noobs/Project/URNoobs/SniperAcademy/Saved/Autosaves/Game/Assets/Enemy/EnemyCharacterBP_Auto1.uasset
+[2018.01.02-19.18.39:338][357]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Enemy/EnemyAIControllerBP] ([1] browsable assets)...
+[2018.01.02-19.18.39:338][357]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Enemy/EnemyAIControllerBP]
+[2018.01.02-19.18.39:357][357]LogSavePackage: Save=18.28ms
+[2018.01.02-19.18.39:357][357]LogSavePackage: Moving 'C:/Users/jamie/Desktop/UE4Noobs/Project/URNoobs/SniperAcademy/Saved/EnemyAIControllerBP_Auto1928AAF934FCE304EE50F3F96A1EA1A1E.tmp' to 'C:/Users/jamie/Desktop/UE4Noobs/Project/URNoobs/SniperAcademy/Saved/Autosaves/Game/Assets/Enemy/EnemyAIControllerBP_Auto1.uasset'
+[2018.01.02-19.18.39:359][357]LogSavePackage: Display: Finished SavePackage C:/Users/jamie/Desktop/UE4Noobs/Project/URNoobs/SniperAcademy/Saved/Autosaves/Game/Assets/Enemy/EnemyAIControllerBP_Auto1.uasset
+[2018.01.02-19.18.39:360][357]LogFileHelpers: Auto-saving content packages took 0.168
