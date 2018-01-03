@@ -1,0 +1,674 @@
+﻿Log file open, 01/03/18 14:30:53
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: SniperAcademy
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1269776494) SRandInit(-1269776494).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.216036
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  /Temp/Autosaves/Game/Assets/Map/UEDPCGameScreen -game -PIEVIACONSOLE -ResX=1280 -ResY=720  -Multiprocess -messaging -SessionName="Play in Standalone Game" -windowed 
+LogInit: Base directory: E:/UE4/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.01.03-19.30.55:172][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.03-19.30.55:172][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.01.03-19.30.55:186][  0]LogInit: Computer: DESKTOP-CJ0TBVV
+[2018.01.03-19.30.55:186][  0]LogInit: User: jamie
+[2018.01.03-19.30.55:186][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.01.03-19.30.55:186][  0]LogInit: High frequency timer resolution =2.338346 MHz
+[2018.01.03-19.30.55:186][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.01.03-19.30.55:186][  0]LogMemory: Platform Memory Stats for Windows
+[2018.01.03-19.30.55:186][  0]LogMemory: Process Physical Memory: 279.14 MB used, 279.14 MB peak
+[2018.01.03-19.30.55:186][  0]LogMemory: Process Virtual Memory: 282.33 MB used, 282.33 MB peak
+[2018.01.03-19.30.55:186][  0]LogMemory: Physical Memory: 10413.02 MB used,  5888.53 MB free, 16301.55 MB total
+[2018.01.03-19.30.55:186][  0]LogMemory: Virtual Memory: 677.07 MB used,  5888.53 MB free, 134217728.00 MB total
+[2018.01.03-19.30.55:625][  0]LogInit: Using OS detected language (en-US).
+[2018.01.03-19.30.55:625][  0]LogInit: Using OS detected locale (en-US).
+[2018.01.03-19.30.55:746][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.01.03-19.30.56:754][  0]LogD3D11RHI: D3D11 adapters:
+[2018.01.03-19.30.56:885][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 765M' (Feature Level 11_0)
+[2018.01.03-19.30.56:885][  0]LogD3D11RHI:       2018/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.01.03-19.30.56:893][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.01.03-19.30.56:893][  0]LogD3D11RHI:       0/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.01.03-19.30.56:893][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.01.03-19.30.56:900][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.01.03-19.30.56:900][  0]LogD3D11RHI:     GPU DeviceId: 0x11e2 (for the marketing name, search the web for "GPU Device Id")
+[2018.01.03-19.30.56:900][  0]LogWindows: EnumDisplayDevices:
+[2018.01.03-19.30.56:900][  0]LogWindows:    0. 'NVIDIA GeForce GTX 765M' (P:1 D:1)
+[2018.01.03-19.30.56:900][  0]LogWindows:    1. 'NVIDIA GeForce GTX 765M' (P:0 D:1)
+[2018.01.03-19.30.56:901][  0]LogWindows:    2. 'NVIDIA GeForce GTX 765M' (P:0 D:0)
+[2018.01.03-19.30.56:901][  0]LogWindows:    3. 'NVIDIA GeForce GTX 765M' (P:0 D:0)
+[2018.01.03-19.30.56:901][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.01.03-19.30.56:901][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 765M
+[2018.01.03-19.30.56:901][  0]LogD3D11RHI:   Driver Version: 388.71 (internal:23.21.13.8871, unified:388.71)
+[2018.01.03-19.30.56:901][  0]LogD3D11RHI:      Driver Date: 12-15-2017
+[2018.01.03-19.30.56:901][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2018.01.03-19.30.56:929][  0]LogD3D11RHI: Async texture creation enabled
+[2018.01.03-19.30.57:047][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.01.03-19.30.57:052][  0]LogShaderCompilers: Guid format shader working directory is -15 characters bigger than the processId version (C:/Users/jamie/Desktop/UE4Noobs/Project/URNoobs/SniperAcademy/Intermediate/Shaders/WorkingDirectory/7372/).
+[2018.01.03-19.30.57:052][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/jamie/AppData/Local/Temp/UnrealShaderWorkingDir/63EDEE424ECC2056D734488A1037B597/'.
+[2018.01.03-19.30.57:052][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.01.03-19.31.00:869][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.01.03-19.31.00:917][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.01.03-19.31.00:965][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.01.03-19.31.01:006][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.01.03-19.31.01:006][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.01.03-19.31.01:961][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.01.03-19.31.03:020][  0]LogDerivedDataCache: Loaded boot cache 1.06s 93MB C:/Users/jamie/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.01.03-19.31.03:020][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/jamie/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2018.01.03-19.31.03:020][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/jamie/Desktop/UE4Noobs/Project/URNoobs/SniperAcademy/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.01.03-19.31.03:020][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.01.03-19.31.03:021][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/jamie/Desktop/UE4Noobs/Project/URNoobs/SniperAcademy/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.01.03-19.31.03:021][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.01.03-19.31.03:038][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.01.03-19.31.03:050][  0]LogDerivedDataCache: Using Local data cache path C:/Users/jamie/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.01.03-19.31.03:060][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.01.03-19.31.03:094][  0]LogSlate: Using Freetype 2.6.0
+[2018.01.03-19.31.03:121][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.03-19.31.03:121][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.03-19.31.07:148][  0]LogAssetRegistry: FAssetRegistry took 0.0046 seconds to start up
+[2018.01.03-19.31.07:177][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.009965 seconds
+[2018.01.03-19.31.07:272][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.03-19.31.07:393][  0]LogContentStreaming: Texture pool size is 1000.00 MB
+[2018.01.03-19.31.07:811][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.01.03-19.31.07:862][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.01.03-19.31.07:862][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.01.03-19.31.07:862][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.01.03-19.31.07:862][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.01.03-19.31.07:862][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.01.03-19.31.08:191][  0]LogNetVersion: SniperAcademy , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2105103927)
+[2018.01.03-19.31.08:414][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.01.03-19.31.10:086][  0]LogMoviePlayer: Initializing movie player
+[2018.01.03-19.31.10:167][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.03-19.31.10:522][  0]LogCollectionManager: Loaded 0 collections in 0.001160 seconds
+[2018.01.03-19.31.10:569][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jamie/Desktop/UE4Noobs/Project/URNoobs/SniperAcademy/Saved/Collections/' took 0.01s
+[2018.01.03-19.31.10:569][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jamie/Desktop/UE4Noobs/Project/URNoobs/SniperAcademy/Content/Developers/jamie/Collections/' took 0.01s
+[2018.01.03-19.31.10:569][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jamie/Desktop/UE4Noobs/Project/URNoobs/SniperAcademy/Content/Collections/' took 0.01s
+[2018.01.03-19.31.10:569][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.01.03-19.31.10:569][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000071 seconds (updated 0 objects)
+[2018.01.03-19.31.10:776][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.01.03-19.31.10:827][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.01.03-19.31.11:450][  0]SourceControl: Source control is disabled
+[2018.01.03-19.31.11:450][  0]SourceControl: Source control is disabled
+[2018.01.03-19.31.11:519][  0]SourceControl: Source control is disabled
+[2018.01.03-19.31.11:821][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.01.03-19.31.12:130][  0]LogOcInput: OculusInput pre-init called
+[2018.01.03-19.31.12:255][  0]LogUObjectArray: 38702 objects as part of root set at end of initial load.
+[2018.01.03-19.31.12:255][  0]LogUObjectAllocator: 8491208 out of 0 bytes used by permanent object pool.
+[2018.01.03-19.31.12:255][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.01.03-19.31.12:456][  0]LogEngine: Initializing Engine...
+[2018.01.03-19.31.12:458][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.01.03-19.31.12:652][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.01.03-19.31.12:652][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.01.03-19.31.12:683][  0]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.03-19.31.12:694][  0]LogInit: FAudioDevice initialized.
+[2018.01.03-19.31.12:718][  0]LogInit: Texture streaming: Enabled
+[2018.01.03-19.31.12:789][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.01.03-19.31.13:229][  0]LogSlateStyle: Warning: Unable to find Slate Widget Style 'NormalText'. Using FTextBlockStyle defaults instead.
+[2018.01.03-19.31.13:229][  0]LogSlateStyle: Warning: Unable to find Slate Widget Style 'SpinBox'. Using FSpinBoxStyle defaults instead.
+[2018.01.03-19.31.13:511][  0]LogInit: Display: Game Engine Initialized.
+[2018.01.03-19.31.13:511][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.01.03-19.31.13:700][  0]LogInit: Display: Starting Game.
+[2018.01.03-19.31.13:707][  0]LogNet: Browse: /Temp/Autosaves/Game/Assets/Map/UEDPCGameScreen?Name=Player
+[2018.01.03-19.31.13:717][  0]LogLoad: LoadMap: /Temp/Autosaves/Game/Assets/Map/UEDPCGameScreen?Name=Player
+[2018.01.03-19.31.13:740][  0]LogMemory: Platform Memory Stats for Windows
+[2018.01.03-19.31.13:740][  0]LogMemory: Process Physical Memory: 823.34 MB used, 948.95 MB peak
+[2018.01.03-19.31.13:740][  0]LogMemory: Process Virtual Memory: 943.72 MB used, 1024.26 MB peak
+[2018.01.03-19.31.13:740][  0]LogMemory: Physical Memory: 10995.48 MB used,  5306.07 MB free, 16301.55 MB total
+[2018.01.03-19.31.13:740][  0]LogMemory: Virtual Memory: 1563.57 MB used,  5306.07 MB free, 134217728.00 MB total
+[2018.01.03-19.31.13:740][  0]LogMemory: 
+[2018.01.03-19.31.13:740][  0]Allocator Stats for TBB: (not implemented)
+[2018.01.03-19.31.15:815][  0]LogAIModule: Creating AISystem for world GameScreen
+[2018.01.03-19.31.15:815][  0]LogLoad: Game class is 'GameScreenMode_C'
+[2018.01.03-19.31.15:845][  0]LogWorld: Bringing World /Temp/Autosaves/Game/Assets/Map/UEDPCGameScreen.GameScreen up for play (max tick rate 0) at 2018.01.03-14.31.15
+[2018.01.03-19.31.15:846][  0]LogWorld: Bringing up level for play took: 0.007879
+[2018.01.03-19.31.15:872][  0]LogLoad: Took 2.155711 seconds to LoadMap(/Temp/Autosaves/Game/Assets/Map/UEDPCGameScreen)
+[2018.01.03-19.31.16:117][  0]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2018.01.03-19.31.16:117][  0]LogLoad: (Engine Initialization) Total time: 25.19 seconds
+[2018.01.03-19.31.16:117][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.01.03-19.31.16:118][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.01.03-19.31.16:118][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.01.03-19.31.16:150][  0]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue3
+	Playerjoin_C /Engine/Transient.GameEngine_0:GameInstance_0.Playerjoin_C_0
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:PlayerJoins:0118
+[2018.01.03-19.31.16:150][  0]LogScript: Warning: Script call stack:
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:Tick
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:ExecuteUbergraph_Playerjoin
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:PlayerJoins
+
+[2018.01.03-19.31.16:151][  0]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	Playerjoin_C /Engine/Transient.GameEngine_0:GameInstance_0.Playerjoin_C_0
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:PlayerJoins:01EC
+[2018.01.03-19.31.16:151][  0]LogScript: Warning: Script call stack:
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:Tick
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:ExecuteUbergraph_Playerjoin
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:PlayerJoins
+
+[2018.01.03-19.31.16:151][  0]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Playerjoin_C /Engine/Transient.GameEngine_0:GameInstance_0.Playerjoin_C_0
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:PlayerJoins:02C0
+[2018.01.03-19.31.16:151][  0]LogScript: Warning: Script call stack:
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:Tick
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:ExecuteUbergraph_Playerjoin
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:PlayerJoins
+
+[2018.01.03-19.31.16:151][  0]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue3
+	Playerjoin_C /Engine/Transient.GameEngine_0:GameInstance_0.Playerjoin_C_0
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:PauseScreen:01AA
+[2018.01.03-19.31.16:151][  0]LogScript: Warning: Script call stack:
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:Tick
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:ExecuteUbergraph_Playerjoin
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:PauseScreen
+
+[2018.01.03-19.31.16:151][  0]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	Playerjoin_C /Engine/Transient.GameEngine_0:GameInstance_0.Playerjoin_C_0
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:PauseScreen:030D
+[2018.01.03-19.31.16:151][  0]LogScript: Warning: Script call stack:
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:Tick
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:ExecuteUbergraph_Playerjoin
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:PauseScreen
+
+[2018.01.03-19.31.16:151][  0]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Playerjoin_C /Engine/Transient.GameEngine_0:GameInstance_0.Playerjoin_C_0
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:PauseScreen:0470
+[2018.01.03-19.31.16:151][  0]LogScript: Warning: Script call stack:
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:Tick
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:ExecuteUbergraph_Playerjoin
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:PauseScreen
+
+[2018.01.03-19.31.16:151][  0]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue3
+	Playerjoin_C /Engine/Transient.GameEngine_0:GameInstance_0.Playerjoin_C_1
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:PlayerJoins:0118
+[2018.01.03-19.31.16:151][  0]LogScript: Warning: Script call stack:
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:Tick
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:ExecuteUbergraph_Playerjoin
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:PlayerJoins
+
+[2018.01.03-19.31.16:151][  0]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	Playerjoin_C /Engine/Transient.GameEngine_0:GameInstance_0.Playerjoin_C_1
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:PlayerJoins:01EC
+[2018.01.03-19.31.16:151][  0]LogScript: Warning: Script call stack:
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:Tick
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:ExecuteUbergraph_Playerjoin
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:PlayerJoins
+
+[2018.01.03-19.31.16:151][  0]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Playerjoin_C /Engine/Transient.GameEngine_0:GameInstance_0.Playerjoin_C_1
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:PlayerJoins:02C0
+[2018.01.03-19.31.16:151][  0]LogScript: Warning: Script call stack:
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:Tick
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:ExecuteUbergraph_Playerjoin
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:PlayerJoins
+
+[2018.01.03-19.31.16:151][  0]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue3
+	Playerjoin_C /Engine/Transient.GameEngine_0:GameInstance_0.Playerjoin_C_1
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:PauseScreen:01AA
+[2018.01.03-19.31.16:151][  0]LogScript: Warning: Script call stack:
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:Tick
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:ExecuteUbergraph_Playerjoin
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:PauseScreen
+
+[2018.01.03-19.31.16:151][  0]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	Playerjoin_C /Engine/Transient.GameEngine_0:GameInstance_0.Playerjoin_C_1
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:PauseScreen:030D
+[2018.01.03-19.31.16:151][  0]LogScript: Warning: Script call stack:
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:Tick
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:ExecuteUbergraph_Playerjoin
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:PauseScreen
+
+[2018.01.03-19.31.16:151][  0]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Playerjoin_C /Engine/Transient.GameEngine_0:GameInstance_0.Playerjoin_C_1
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:PauseScreen:0470
+[2018.01.03-19.31.16:151][  0]LogScript: Warning: Script call stack:
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:Tick
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:ExecuteUbergraph_Playerjoin
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:PauseScreen
+
+[2018.01.03-19.31.16:156][  1]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue3
+	Playerjoin_C /Engine/Transient.GameEngine_0:GameInstance_0.Playerjoin_C_0
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:PlayerJoins:0118
+[2018.01.03-19.31.16:156][  1]LogScript: Warning: Script call stack:
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:Tick
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:ExecuteUbergraph_Playerjoin
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:PlayerJoins
+
+[2018.01.03-19.31.16:156][  1]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	Playerjoin_C /Engine/Transient.GameEngine_0:GameInstance_0.Playerjoin_C_0
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:PlayerJoins:01EC
+[2018.01.03-19.31.16:156][  1]LogScript: Warning: Script call stack:
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:Tick
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:ExecuteUbergraph_Playerjoin
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:PlayerJoins
+
+[2018.01.03-19.31.16:156][  1]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Playerjoin_C /Engine/Transient.GameEngine_0:GameInstance_0.Playerjoin_C_0
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:PlayerJoins:02C0
+[2018.01.03-19.31.16:156][  1]LogScript: Warning: Script call stack:
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:Tick
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:ExecuteUbergraph_Playerjoin
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:PlayerJoins
+
+[2018.01.03-19.31.16:156][  1]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue3
+	Playerjoin_C /Engine/Transient.GameEngine_0:GameInstance_0.Playerjoin_C_0
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:PauseScreen:01AA
+[2018.01.03-19.31.16:156][  1]LogScript: Warning: Script call stack:
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:Tick
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:ExecuteUbergraph_Playerjoin
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:PauseScreen
+
+[2018.01.03-19.31.16:156][  1]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	Playerjoin_C /Engine/Transient.GameEngine_0:GameInstance_0.Playerjoin_C_0
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:PauseScreen:030D
+[2018.01.03-19.31.16:156][  1]LogScript: Warning: Script call stack:
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:Tick
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:ExecuteUbergraph_Playerjoin
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:PauseScreen
+
+[2018.01.03-19.31.16:156][  1]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Playerjoin_C /Engine/Transient.GameEngine_0:GameInstance_0.Playerjoin_C_0
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:PauseScreen:0470
+[2018.01.03-19.31.16:156][  1]LogScript: Warning: Script call stack:
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:Tick
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:ExecuteUbergraph_Playerjoin
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:PauseScreen
+
+[2018.01.03-19.31.16:156][  1]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue3
+	Playerjoin_C /Engine/Transient.GameEngine_0:GameInstance_0.Playerjoin_C_1
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:PlayerJoins:0118
+[2018.01.03-19.31.16:156][  1]LogScript: Warning: Script call stack:
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:Tick
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:ExecuteUbergraph_Playerjoin
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:PlayerJoins
+
+[2018.01.03-19.31.16:156][  1]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	Playerjoin_C /Engine/Transient.GameEngine_0:GameInstance_0.Playerjoin_C_1
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:PlayerJoins:01EC
+[2018.01.03-19.31.16:156][  1]LogScript: Warning: Script call stack:
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:Tick
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:ExecuteUbergraph_Playerjoin
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:PlayerJoins
+
+[2018.01.03-19.31.16:156][  1]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Playerjoin_C /Engine/Transient.GameEngine_0:GameInstance_0.Playerjoin_C_1
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:PlayerJoins:02C0
+[2018.01.03-19.31.16:156][  1]LogScript: Warning: Script call stack:
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:Tick
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:ExecuteUbergraph_Playerjoin
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:PlayerJoins
+
+[2018.01.03-19.31.16:156][  1]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue3
+	Playerjoin_C /Engine/Transient.GameEngine_0:GameInstance_0.Playerjoin_C_1
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:PauseScreen:01AA
+[2018.01.03-19.31.16:156][  1]LogScript: Warning: Script call stack:
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:Tick
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:ExecuteUbergraph_Playerjoin
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:PauseScreen
+
+[2018.01.03-19.31.16:156][  1]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	Playerjoin_C /Engine/Transient.GameEngine_0:GameInstance_0.Playerjoin_C_1
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:PauseScreen:030D
+[2018.01.03-19.31.16:156][  1]LogScript: Warning: Script call stack:
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:Tick
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:ExecuteUbergraph_Playerjoin
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:PauseScreen
+
+[2018.01.03-19.31.16:156][  1]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Playerjoin_C /Engine/Transient.GameEngine_0:GameInstance_0.Playerjoin_C_1
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:PauseScreen:0470
+[2018.01.03-19.31.16:156][  1]LogScript: Warning: Script call stack:
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:Tick
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:ExecuteUbergraph_Playerjoin
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:PauseScreen
+
+[2018.01.03-19.31.16:454][  2]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue3
+	Playerjoin_C /Engine/Transient.GameEngine_0:GameInstance_0.Playerjoin_C_0
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:PlayerJoins:0118
+[2018.01.03-19.31.16:454][  2]LogScript: Warning: Script call stack:
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:Tick
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:ExecuteUbergraph_Playerjoin
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:PlayerJoins
+
+[2018.01.03-19.31.16:454][  2]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	Playerjoin_C /Engine/Transient.GameEngine_0:GameInstance_0.Playerjoin_C_0
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:PlayerJoins:01EC
+[2018.01.03-19.31.16:454][  2]LogScript: Warning: Script call stack:
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:Tick
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:ExecuteUbergraph_Playerjoin
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:PlayerJoins
+
+[2018.01.03-19.31.16:454][  2]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Playerjoin_C /Engine/Transient.GameEngine_0:GameInstance_0.Playerjoin_C_0
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:PlayerJoins:02C0
+[2018.01.03-19.31.16:454][  2]LogScript: Warning: Script call stack:
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:Tick
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:ExecuteUbergraph_Playerjoin
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:PlayerJoins
+
+[2018.01.03-19.31.16:454][  2]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue3
+	Playerjoin_C /Engine/Transient.GameEngine_0:GameInstance_0.Playerjoin_C_0
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:PauseScreen:01AA
+[2018.01.03-19.31.16:454][  2]LogScript: Warning: Script call stack:
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:Tick
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:ExecuteUbergraph_Playerjoin
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:PauseScreen
+
+[2018.01.03-19.31.16:454][  2]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	Playerjoin_C /Engine/Transient.GameEngine_0:GameInstance_0.Playerjoin_C_0
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:PauseScreen:030D
+[2018.01.03-19.31.16:454][  2]LogScript: Warning: Script call stack:
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:Tick
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:ExecuteUbergraph_Playerjoin
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:PauseScreen
+
+[2018.01.03-19.31.16:454][  2]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue3
+	Playerjoin_C /Engine/Transient.GameEngine_0:GameInstance_0.Playerjoin_C_1
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:PlayerJoins:0118
+[2018.01.03-19.31.16:454][  2]LogScript: Warning: Script call stack:
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:Tick
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:ExecuteUbergraph_Playerjoin
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:PlayerJoins
+
+[2018.01.03-19.31.16:454][  2]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	Playerjoin_C /Engine/Transient.GameEngine_0:GameInstance_0.Playerjoin_C_1
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:PlayerJoins:01EC
+[2018.01.03-19.31.16:454][  2]LogScript: Warning: Script call stack:
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:Tick
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:ExecuteUbergraph_Playerjoin
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:PlayerJoins
+
+[2018.01.03-19.31.16:454][  2]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Playerjoin_C /Engine/Transient.GameEngine_0:GameInstance_0.Playerjoin_C_1
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:PlayerJoins:02C0
+[2018.01.03-19.31.16:455][  2]LogScript: Warning: Script call stack:
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:Tick
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:ExecuteUbergraph_Playerjoin
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:PlayerJoins
+
+[2018.01.03-19.31.16:455][  2]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue3
+	Playerjoin_C /Engine/Transient.GameEngine_0:GameInstance_0.Playerjoin_C_1
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:PauseScreen:01AA
+[2018.01.03-19.31.16:455][  2]LogScript: Warning: Script call stack:
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:Tick
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:ExecuteUbergraph_Playerjoin
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:PauseScreen
+
+[2018.01.03-19.31.16:455][  2]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	Playerjoin_C /Engine/Transient.GameEngine_0:GameInstance_0.Playerjoin_C_1
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:PauseScreen:030D
+[2018.01.03-19.31.16:455][  2]LogScript: Warning: Script call stack:
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:Tick
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:ExecuteUbergraph_Playerjoin
+	Function /Game/Assets/HUD/GameScreen/Playerjoin.Playerjoin_C:PauseScreen
+
+[2018.01.03-19.31.33:438][ 55]Set new viewmode: Unlit
+[2018.01.03-19.31.34:826][141]Set new viewmode: Unlit
+[2018.01.03-19.31.36:035][216]Set new viewmode: Lit
+[2018.01.03-19.31.37:132][284]Set new viewmode: Unlit
+[2018.01.03-19.31.58:323][522]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.03-19.31.58:327][522]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.03-19.31.58:330][522]LogEngine: All Windows Closed
+[2018.01.03-19.31.58:330][522]LogWindows: FPlatformMisc::RequestExit(0)
+[2018.01.03-19.31.59:535][523]LogExit: Preparing to exit.
+[2018.01.03-19.31.59:545][523]LogMoviePlayer: Shutting down movie player
+[2018.01.03-19.32.00:239][523]LogExit: Game engine shut down
+[2018.01.03-19.32.01:254][523]LogExit: Object subsystem successfully closed.
+[2018.01.03-19.32.01:409][523]LogD3D11RHI: Shutdown
+[2018.01.03-19.32.01:413][523]LogD3D11RHI: CleanupD3DDevice
+[2018.01.03-19.32.01:435][523]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.01.03-19.32.01:888][523]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (306)
+[2018.01.03-19.32.01:901][523]LogModuleManager: Shutting down and abandoning module SequenceRecorder (304)
+[2018.01.03-19.32.01:907][523]LogModuleManager: Shutting down and abandoning module AutomationController (302)
+[2018.01.03-19.32.01:921][523]LogModuleManager: Shutting down and abandoning module AutomationWorker (300)
+[2018.01.03-19.32.01:928][523]LogModuleManager: Shutting down and abandoning module AIModule (298)
+[2018.01.03-19.32.01:928][523]LogModuleManager: Shutting down and abandoning module GameplayDebugger (297)
+[2018.01.03-19.32.01:936][523]LogModuleManager: Shutting down and abandoning module AITestSuite (295)
+[2018.01.03-19.32.01:948][523]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (292)
+[2018.01.03-19.32.01:949][523]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (290)
+[2018.01.03-19.32.01:949][523]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (288)
+[2018.01.03-19.32.01:949][523]LogModuleManager: Shutting down and abandoning module Media (287)
+[2018.01.03-19.32.01:949][523]LogModuleManager: Shutting down and abandoning module CharacterAI (284)
+[2018.01.03-19.32.01:949][523]LogModuleManager: Shutting down and abandoning module SessionServices (282)
+[2018.01.03-19.32.01:949][523]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (280)
+[2018.01.03-19.32.01:956][523]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (278)
+[2018.01.03-19.32.01:956][523]LogModuleManager: Shutting down and abandoning module MovieScene (276)
+[2018.01.03-19.32.01:956][523]LogModuleManager: Shutting down and abandoning module GeometryCache (274)
+[2018.01.03-19.32.01:956][523]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (273)
+[2018.01.03-19.32.01:956][523]LogModuleManager: Shutting down and abandoning module Niagara (270)
+[2018.01.03-19.32.01:956][523]LogModuleManager: Shutting down and abandoning module NiagaraEditor (269)
+[2018.01.03-19.32.01:976][523]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (266)
+[2018.01.03-19.32.01:976][523]LogModuleManager: Shutting down and abandoning module PortalServices (264)
+[2018.01.03-19.32.01:976][523]LogModuleManager: Shutting down and abandoning module PortalRpc (262)
+[2018.01.03-19.32.01:976][523]LogModuleManager: Shutting down and abandoning module MessagingRpc (260)
+[2018.01.03-19.32.01:976][523]LogModuleManager: Shutting down and abandoning module ProfilerService (258)
+[2018.01.03-19.32.01:977][523]LogModuleManager: Shutting down and abandoning module TaskGraph (256)
+[2018.01.03-19.32.01:990][523]LogModuleManager: Shutting down and abandoning module SteamVRController (254)
+[2018.01.03-19.32.01:990][523]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (252)
+[2018.01.03-19.32.01:990][523]LogModuleManager: Shutting down and abandoning module OculusInput (250)
+[2018.01.03-19.32.01:990][523]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (248)
+[2018.01.03-19.32.01:990][523]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (246)
+[2018.01.03-19.32.01:990][523]LogModuleManager: Shutting down and abandoning module CableComponent (244)
+[2018.01.03-19.32.01:990][523]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (242)
+[2018.01.03-19.32.01:990][523]LogModuleManager: Shutting down and abandoning module AndroidPermission (240)
+[2018.01.03-19.32.01:990][523]LogModuleManager: Shutting down and abandoning module HTML5Networking (236)
+[2018.01.03-19.32.01:990][523]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (234)
+[2018.01.03-19.32.01:990][523]LogModuleManager: Shutting down and abandoning module DesktopPlatform (233)
+[2018.01.03-19.32.02:009][523]LogModuleManager: Shutting down and abandoning module HotReload (231)
+[2018.01.03-19.32.02:009][523]LogDirectoryWatcher: A directory notification for 'C:/Users/jamie/Desktop/UE4Noobs/Project/URNoobs/SniperAcademy/Binaries/Win64' was aborted.
+[2018.01.03-19.32.02:009][523]LogModuleManager: Shutting down and abandoning module UObjectPlugin (228)
+[2018.01.03-19.32.02:009][523]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (226)
+[2018.01.03-19.32.02:022][523]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (224)
+[2018.01.03-19.32.02:038][523]LogModuleManager: Shutting down and abandoning module SourceControl (223)
+[2018.01.03-19.32.02:045][523]LogModuleManager: Shutting down and abandoning module SniperAcademy (220)
+[2018.01.03-19.32.02:045][523]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (218)
+[2018.01.03-19.32.02:045][523]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (216)
+[2018.01.03-19.32.02:045][523]LogModuleManager: Shutting down and abandoning module PhysXVehicles (214)
+[2018.01.03-19.32.02:045][523]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (212)
+[2018.01.03-19.32.02:045][523]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (210)
+[2018.01.03-19.32.02:045][523]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (208)
+[2018.01.03-19.32.02:049][523]LogModuleManager: Shutting down and abandoning module UdpMessaging (206)
+[2018.01.03-19.32.02:151][523]LogModuleManager: Shutting down and abandoning module TcpMessaging (204)
+[2018.01.03-19.32.02:265][523]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (202)
+[2018.01.03-19.32.02:275][523]LogModuleManager: Shutting down and abandoning module FacialAnimation (200)
+[2018.01.03-19.32.02:275][523]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (198)
+[2018.01.03-19.32.02:281][523]LogModuleManager: Shutting down and abandoning module GraphEditor (197)
+[2018.01.03-19.32.02:282][523]LogModuleManager: Shutting down and abandoning module ContentBrowser (195)
+[2018.01.03-19.32.02:282][523]LogModuleManager: Shutting down and abandoning module CollectionManager (194)
+[2018.01.03-19.32.02:289][523]LogDirectoryWatcher: A directory notification for 'C:/Users/jamie/Desktop/UE4Noobs/Project/URNoobs/SniperAcademy/Content/Collections/' was aborted.
+[2018.01.03-19.32.02:290][523]LogDirectoryWatcher: A directory notification for 'C:/Users/jamie/Desktop/UE4Noobs/Project/URNoobs/SniperAcademy/Content/Developers/jamie/Collections/' was aborted.
+[2018.01.03-19.32.02:290][523]LogDirectoryWatcher: A directory notification for 'C:/Users/jamie/Desktop/UE4Noobs/Project/URNoobs/SniperAcademy/Saved/Collections/' was aborted.
+[2018.01.03-19.32.02:290][523]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (193)
+[2018.01.03-19.32.02:290][523]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (188)
+[2018.01.03-19.32.02:290][523]LogModuleManager: Shutting down and abandoning module Paper2D (186)
+[2018.01.03-19.32.02:303][523]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (184)
+[2018.01.03-19.32.02:303][523]LogModuleManager: Shutting down and abandoning module WmfMedia (182)
+[2018.01.03-19.32.02:303][523]LogModuleManager: Shutting down and abandoning module PacketHandler (180)
+[2018.01.03-19.32.02:303][523]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (178)
+[2018.01.03-19.32.02:303][523]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (176)
+[2018.01.03-19.32.02:310][523]LogModuleManager: Shutting down and abandoning module Overlay (174)
+[2018.01.03-19.32.02:310][523]LogModuleManager: Shutting down and abandoning module OverlayEditor (173)
+[2018.01.03-19.32.02:310][523]LogModuleManager: Shutting down and abandoning module MediaAssets (170)
+[2018.01.03-19.32.02:310][523]LogModuleManager: Shutting down and abandoning module VREditor (168)
+[2018.01.03-19.32.02:319][523]LogModuleManager: Shutting down and abandoning module StringTableEditor (166)
+[2018.01.03-19.32.02:334][523]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (164)
+[2018.01.03-19.32.02:334][523]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (162)
+[2018.01.03-19.32.02:334][523]LogModuleManager: Shutting down and abandoning module FunctionalTesting (160)
+[2018.01.03-19.32.02:334][523]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (158)
+[2018.01.03-19.32.02:341][523]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (157)
+[2018.01.03-19.32.02:341][523]LogModuleManager: Shutting down and abandoning module UMG (154)
+[2018.01.03-19.32.02:341][523]LogModuleManager: Shutting down and abandoning module UMGEditor (153)
+[2018.01.03-19.32.02:379][523]LogModuleManager: Shutting down and abandoning module Sequencer (152)
+[2018.01.03-19.32.02:404][523]LogModuleManager: Shutting down and abandoning module MessageLog (149)
+[2018.01.03-19.32.02:404][523]LogModuleManager: Shutting down and abandoning module SlateReflector (144)
+[2018.01.03-19.32.02:441][523]LogModuleManager: Shutting down and abandoning module Slate (142)
+[2018.01.03-19.32.02:441][523]LogModuleManager: Shutting down and abandoning module EditorStyle (140)
+[2018.01.03-19.32.02:442][523]LogModuleManager: Shutting down and abandoning module MRMesh (138)
+[2018.01.03-19.32.02:442][523]LogModuleManager: Shutting down and abandoning module Messaging (136)
+[2018.01.03-19.32.02:442][523]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (134)
+[2018.01.03-19.32.02:442][523]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (132)
+[2018.01.03-19.32.02:442][523]LogModuleManager: Shutting down and abandoning module XAudio2 (130)
+[2018.01.03-19.32.02:442][523]LogModuleManager: Shutting down and abandoning module Networking (128)
+[2018.01.03-19.32.02:442][523]LogModuleManager: Shutting down and abandoning module Core (124)
+[2018.01.03-19.32.02:442][523]LogModuleManager: Shutting down and abandoning module KismetCompiler (122)
+[2018.01.03-19.32.02:442][523]LogModuleManager: Shutting down and abandoning module LevelSequence (120)
+[2018.01.03-19.32.02:442][523]LogModuleManager: Shutting down and abandoning module MeshUtilities (118)
+[2018.01.03-19.32.02:473][523]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (117)
+[2018.01.03-19.32.02:487][523]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (116)
+[2018.01.03-19.32.02:487][523]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (115)
+[2018.01.03-19.32.02:493][523]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (113)
+[2018.01.03-19.32.02:493][523]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (111)
+[2018.01.03-19.32.02:496][523]LogModuleManager: Shutting down and abandoning module MaterialBaking (107)
+[2018.01.03-19.32.02:509][523]LogModuleManager: Shutting down and abandoning module DerivedDataCache (102)
+[2018.01.03-19.32.02:625][523]LogDerivedDataCache: Shutdown
+[2018.01.03-19.32.02:625][523]LogModuleManager: Shutting down and abandoning module TargetPlatform (100)
+[2018.01.03-19.32.02:625][523]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (99)
+[2018.01.03-19.32.02:641][523]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (97)
+[2018.01.03-19.32.02:652][523]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (95)
+[2018.01.03-19.32.02:658][523]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (93)
+[2018.01.03-19.32.02:658][523]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (91)
+[2018.01.03-19.32.02:679][523]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (89)
+[2018.01.03-19.32.02:679][523]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (87)
+[2018.01.03-19.32.02:679][523]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (85)
+[2018.01.03-19.32.02:679][523]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (83)
+[2018.01.03-19.32.02:679][523]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (81)
+[2018.01.03-19.32.02:679][523]LogModuleManager: Shutting down and abandoning module ImageWrapper (80)
+[2018.01.03-19.32.02:679][523]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (77)
+[2018.01.03-19.32.02:679][523]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (75)
+[2018.01.03-19.32.02:679][523]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (73)
+[2018.01.03-19.32.02:679][523]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (71)
+[2018.01.03-19.32.02:679][523]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (69)
+[2018.01.03-19.32.02:679][523]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (67)
+[2018.01.03-19.32.02:679][523]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (65)
+[2018.01.03-19.32.02:679][523]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (63)
+[2018.01.03-19.32.02:679][523]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2018.01.03-19.32.02:679][523]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2018.01.03-19.32.02:679][523]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2018.01.03-19.32.02:679][523]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2018.01.03-19.32.02:679][523]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2018.01.03-19.32.02:688][523]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2018.01.03-19.32.02:688][523]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.01.03-19.32.02:688][523]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.01.03-19.32.02:688][523]LogOnline: Display: Unloading online subsystem: NULL
+[2018.01.03-19.32.02:701][523]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.01.03-19.32.02:716][523]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.01.03-19.32.02:727][523]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.01.03-19.32.02:737][523]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.01.03-19.32.02:752][523]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.01.03-19.32.02:753][523]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.01.03-19.32.02:765][523]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.01.03-19.32.02:765][523]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.01.03-19.32.02:765][523]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.01.03-19.32.02:765][523]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.01.03-19.32.02:785][523]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.01.03-19.32.02:801][523]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.01.03-19.32.02:801][523]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.01.03-19.32.02:813][523]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.01.03-19.32.02:813][523]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.01.03-19.32.02:813][523]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.01.03-19.32.02:813][523]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.01.03-19.32.02:813][523]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.01.03-19.32.02:813][523]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.01.03-19.32.02:813][523]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.01.03-19.32.02:813][523]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.01.03-19.32.02:828][523]LogExit: Exiting.
+[2018.01.03-19.32.02:830][523]Log file closed, 01/03/18 14:32:02

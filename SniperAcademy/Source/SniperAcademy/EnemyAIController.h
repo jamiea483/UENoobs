@@ -43,7 +43,6 @@ public:
 
 	void SetTargetEnemy(APawn* NewTarget);
 
-
 	virtual void Possess(APawn* InPawn) override;
 
 	FName EnemyKeyID;
